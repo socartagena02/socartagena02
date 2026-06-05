@@ -1,5 +1,5 @@
 # Hi, I'm Sofía Cartagena 
-Software Engineer focused on Backend Development, Artificial Intelligence and Web Applications.
+Software Engineer focused on FullStack Development, Artificial Intelligence and Web Applications.
 
 ## Tech Stack
 **Backend**
