@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Sofía Cartagena 
+Software Engineer focused on Backend Development, Artificial Intelligence and Web Applications.
 
-<!--
-**socartagena02/socartagena02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+**Backend**
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
+- MySQL
 
-Here are some ideas to get you started:
+**Frontend**
+- Angular
+- TypeScript
+- React Native
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools**
+- Git
+- GitHub
+- Render
+- Figma
+
+## Featured Projects
+### Z-STARS AI
+Cognitive stimulation platform built with Django, DRF and PostgreSQL, integrating Machine Learning models for cognitive state analysis.
+
+### Starsverse
+E-commerce platform developed with TypeScript and Angular.
+
+### Social Gamified App
+Social network application built with Django REST Framework, PostgreSQL and React Native.
+
+## Contact
+- Portfolio: socartagena02.github.io/Mi-portfolio/
+- LinkedIn: https://www.linkedin.com/in/sofía-cartagena-ti
