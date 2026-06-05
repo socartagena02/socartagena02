@@ -32,5 +32,5 @@ E-commerce platform developed with TypeScript and Angular.
 Social network application built with Django REST Framework, PostgreSQL and React Native.
 
 ## Contact
-- Portfolio: socartagena02.github.io/Mi-portfolio/
+- Portfolio: https://socartagena02.github.io/Mi-portfolio/
 - LinkedIn: https://www.linkedin.com/in/sofía-cartagena-ti
