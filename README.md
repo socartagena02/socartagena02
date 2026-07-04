@@ -1,5 +1,5 @@
 # Hi, I'm Sofía Cartagena 
-Software Engineer focused on FullStack Development, Artificial Intelligence and Web Applications.
+Computer Engineer focused on FullStack Development, Artificial Intelligence and Web Applications.
 
 ## Tech Stack
 **Backend**
@@ -12,25 +12,20 @@ Software Engineer focused on FullStack Development, Artificial Intelligence and 
 **Frontend**
 - Angular
 - TypeScript
-- React Native
+- React
 - JavaScript
 
 **Tools**
 - Git
 - GitHub
-- Render
-- Figma
 
 ## Featured Projects
 ### Z-STARS AI
 Cognitive stimulation platform built with Django, DRF and PostgreSQL, integrating Machine Learning models for cognitive state analysis.
 
-### Starsverse
-E-commerce platform developed with TypeScript and Angular.
-
-### Social Gamified App
+### Redgeon
 Social network application built with Django REST Framework, PostgreSQL and React Native.
 
 ## Contact
-- Portfolio: https://socartagena02.github.io/Mi-portfolio/
+- Portfolio: -
 - LinkedIn: https://www.linkedin.com/in/sofía-cartagena-ti
