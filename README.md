@@ -29,3 +29,4 @@ Social network application built with Django REST Framework, PostgreSQL and Reac
 ## Contact
 - Portfolio: -
 - LinkedIn: https://www.linkedin.com/in/sofía-cartagena-ti
+- Mail: sofiacarcastro@gmail.com
