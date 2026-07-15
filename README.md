@@ -1,25 +1,27 @@
 # Hi, I'm Sofía Cartagena 
-Computer Engineer focused on Cloud Solutions, IT Support, Automation and Web Development.
+Computer Engineer focused on Full-Stack Development.
 
 ## Tech Stack
+**Frontend**
+- React / TypeScript
+- Angular / TypeScript
+- JavaScript
+-  
+**Backend & Databases**
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
+- MySQL
+
 **Systems & Cloud**
-- Linux (Environments & Scripting)
-- Google Workspace Administration
-- Hosting Management (cPanel)
+- Linux 
 - Google Cloud Platform (GCP)
 - Render
 
-**Backend & Databases**
-- Python (Automation & Scripting)
-- Django / Django REST Framework
-- PostgreSQL / MySQL
-
-**Frontend**
-- Angular / TypeScript
-- React / JavaScript
-
 **Tools**
-- Git / GitHub
+- Git
+- GitHub
 
 ## Featured Projects
 ### Z-STARS AI
