@@ -6,7 +6,7 @@ Computer Engineer focused on Full-Stack Development.
 - React / TypeScript
 - Angular / TypeScript
 - JavaScript
--  
+  
 **Backend & Databases**
 - Python
 - Django
