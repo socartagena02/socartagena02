@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.gif" alt="Sofía Cartagena - Ingeniera Informática y Desarrolladora Full Stack" width="100%">
+</p>
 
 # Hi, I'm Sofía Cartagena 👋
 I am a **Computer Engineer** focused on **Full-Stack Development**. I build scalable web applications and enjoy converting complex problems into clean, efficient code.
